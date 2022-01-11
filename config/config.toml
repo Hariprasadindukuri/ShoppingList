@@ -6,7 +6,7 @@ level = 5 #Debug
 
 [database]
 username = "root"
-password = "uma@1992"
+password = "9676395525"
 dbname = "shoppinglist"
 ip = "mysql"
 port = 3306
